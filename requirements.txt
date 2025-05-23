@@ -1,0 +1,30 @@
+# Core dependencies
+fastapi==0.104.0
+uvicorn==0.23.2
+pydantic==2.4.2
+httpx==0.25.0
+
+# LLM dependencies
+ollama==0.1.5
+langchain==0.0.335
+langchain_community==0.0.10
+docling==0.6.1
+langchain_groq==0.0.1
+sentence-transformers==2.2.2
+faiss-cpu==1.7.4
+transformers==4.34.1
+
+# Utility libraries
+python-dotenv==1.0.0
+loguru==0.7.0
+python-multipart==0.0.6
+
+# Development dependencies
+black==23.10.1
+isort==5.12.0
+pytest==7.4.3
+pytest-asyncio==0.21.1
+
+# Optional dependencies (uncomment if needed)
+# openai==1.1.0  # If using OpenAI API as alternative backend
+# langchain==0.0.325  # If adding langchain integration
