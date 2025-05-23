@@ -66,7 +66,3 @@ Le projet est structuré autour d'un orchestrateur qui coordonne différents age
 - Ollama pour l'exécution locale de modèles
 - Groq pour l'accès à des modèles performants via API
 - Gradio pour l'interface utilisateur
-
-## Licence
-
-MIT
